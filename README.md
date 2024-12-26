@@ -16,6 +16,7 @@
 </div>
 
 ## 💫 About Me
+
 > Building distributed systems by day, training AI models by night. Passionate about creating scalable solutions and pushing the boundaries of what's possible with code.
 
 <div align="center">
@@ -147,6 +148,7 @@ func GetExpertise() Expertise {
 <div align="center">
 
 ### 🎯 Current Focus
+
 > Exploring the intersection of distributed systems and AI to build scalable, intelligent systems
 
 ![Snake animation](https://github.com/ProgMastermind/ProgMastermind/blob/output/github-contribution-grid-snake-dark.svg)
@@ -154,3 +156,9 @@ func GetExpertise() Expertise {
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProgMastermind/ProgMastermind/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ProgMastermind/ProgMastermind/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ProgMastermind/ProgMastermind/output/github-snake.svg" />
+</picture>
