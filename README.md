@@ -79,13 +79,13 @@ func GetExpertise() Expertise {
         DistributedSystems: []string{
             "Consensus Algorithms",
             "Distributed Caching",
-            "Message Queues",
         },
-        SystemsProgramming: []string{
-            "Concurrency Patterns",
-            "Memory Management",
-            "Performance Optimization",
-            "Low-level Programming",
+        FullStack: []string{
+            "Frontend Development",
+            "Backend Development",
+            "Containerization",
+            "API Design",
+            "DevOps Practices",
         },
         AI_ML: []string{
             "LLM Engineering",
