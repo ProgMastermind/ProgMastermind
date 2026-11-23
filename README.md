@@ -5,9 +5,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Software+Engineer+(SDE-1)+%40+Bytebeam;Rust+%2B+PostgreSQL+telematics+backends;LLM+inference+on+AMD+MI300X;Distributed+systems+in+Elixir+%26+Go;Kernels+and+runtimes+in+Rust)](https://prakash-swe-portfolio.vercel.app)
 
 <a href="https://prakash-swe-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://prakash-swe-portfolio.vercel.app/resume.pdf"><img src="https://img.shields.io/badge/Résumé-0d1117?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Résumé"/></a>
+<a href="https://prakash-swe-portfolio.vercel.app/resume.pdf"><img src="https://img.shields.io/badge/Résumé-444c56?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Résumé"/></a>
 <a href="https://www.linkedin.com/in/soulglory/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:prakashcollymore@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:prakashcollymore@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
@@ -45,11 +45,11 @@
       <h3 align="center">GPU & GenAI</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/AMD_ROCm-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-        <img src="https://img.shields.io/badge/Triton-0d1117?style=for-the-badge&logo=nvidia&logoColor=white" />
+        <img src="https://img.shields.io/badge/Triton-444c56?style=for-the-badge" />
         <img src="https://img.shields.io/badge/Speculative_Decoding-1f6feb?style=for-the-badge" />
         <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
         <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" />
-        <img src="https://img.shields.io/badge/RAG-0d1117?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/RAG-444c56?style=for-the-badge" />
       </div>
     </td>
   </tr>
@@ -63,7 +63,7 @@
       <h3 align="center">RaftEx</h3>
       <div align="center">
         <a href="https://github.com/ProgMastermind/raft-elixir"><img src="https://img.shields.io/badge/CODE-REPO-1f6feb?style=for-the-badge&logo=github" alt="Code"/></a>
-        <a href="https://elixir-raft.hashnode.dev/i-built-raft-consensus-from-scratch-in-elixir-here-s-what-the-paper-doesn-t-tell-you"><img src="https://img.shields.io/badge/WRITE-UP-0d1117?style=for-the-badge&logo=hashnode" alt="Write-up"/></a>
+        <a href="https://elixir-raft.hashnode.dev/i-built-raft-consensus-from-scratch-in-elixir-here-s-what-the-paper-doesn-t-tell-you"><img src="https://img.shields.io/badge/READ-WRITE--UP-8957e5?style=for-the-badge&logo=hashnode" alt="Write-up"/></a>
         <p><strong>Elixir · OTP · Distributed Systems</strong><br/>The Raft consensus protocol from the paper: leader election, log replication, snapshots and joint-consensus membership changes.</p>
       </div>
     </td>
@@ -81,7 +81,7 @@
       <h3 align="center">FerrOS</h3>
       <div align="center">
         <a href="https://github.com/ProgMastermind/Rust_OS"><img src="https://img.shields.io/badge/CODE-REPO-1f6feb?style=for-the-badge&logo=github" alt="Code"/></a>
-        <a href="https://prakash-swe-portfolio.vercel.app/projects/rust-os"><img src="https://img.shields.io/badge/CASE-STUDY-0d1117?style=for-the-badge&logo=rust" alt="Case study"/></a>
+        <a href="https://prakash-swe-portfolio.vercel.app/projects/rust-os"><img src="https://img.shields.io/badge/CASE-STUDY-dea584?style=for-the-badge&logo=rust" alt="Case study"/></a>
         <p><strong>Rust · x86_64 · no_std</strong><br/>A preemptive kernel that boots to an interactive shell: paging, heap allocators, scheduling and syscalls, with 23 QEMU tests.</p>
       </div>
     </td>
@@ -104,7 +104,7 @@
     <td width="50%" valign="top">
       <h3 align="center">More on GitHub</h3>
       <div align="center">
-        <a href="https://github.com/ProgMastermind?tab=repositories"><img src="https://img.shields.io/badge/ALL-REPOSITORIES-0d1117?style=for-the-badge&logo=github" alt="Repositories"/></a>
+        <a href="https://github.com/ProgMastermind?tab=repositories"><img src="https://img.shields.io/badge/ALL-REPOSITORIES-1f6feb?style=for-the-badge&logo=github" alt="Repositories"/></a>
         <p><strong>Rust · Go · Elixir · Python</strong><br/>Inference benchmarks, actor systems, BitTorrent and Redis clones, and more experiments.</p>
       </div>
     </td>
@@ -148,8 +148,8 @@ var prakash = Engineer{
   <a href="https://prakash-swe-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/soulglory/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://hashnode.com/@varahasuryaprakash"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
-  <a href="https://twitter.com/PrakashCollymo1"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:prakashcollymore@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/PrakashCollymo1"><img src="https://img.shields.io/badge/X-444c56?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:prakashcollymore@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <div align="center">
