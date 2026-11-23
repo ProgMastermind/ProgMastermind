@@ -72,7 +72,7 @@
       <div align="center">
         <a href="https://elixircache.vercel.app"><img src="https://img.shields.io/badge/LIVE-VIEW-2ea043?style=for-the-badge&logo=vercel" alt="Live"/></a>
         <a href="https://github.com/ProgMastermind/ElixirCache"><img src="https://img.shields.io/badge/CODE-REPO-1f6feb?style=for-the-badge&logo=github" alt="Code"/></a>
-        <p><strong>Elixir · ETS · RESP · Replication</strong><br/>Redis-compatible in-memory cache with master–replica replication, 20+ commands, and 20,000+ concurrent connections.</p>
+        <p><strong>Elixir · ETS · RESP · Replication</strong><br/>Redis-compatible in-memory cache with master–replica replication, 20+ commands, and 20,000+ concurrent connections.<br/><sub>The live demo runs an earlier WebSocket build (<a href="https://github.com/ProgMastermind/Elixir_Backend">source</a>).</sub></p>
       </div>
     </td>
   </tr>
