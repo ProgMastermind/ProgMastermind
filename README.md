@@ -7,7 +7,7 @@
 
 I'm a software engineer at **Bytebeam**, building a product backend from scratch in Rust and PostgreSQL. Before that I optimised LLM inference on AMD MI300X GPUs at a stealth AI startup and built driver-validation automation at **Intel**. Outside work I build the things I want to understand properly: Raft in Elixir, a preemptive kernel in Rust, and a model of Go's garbage collector.
 
-[Portfolio](https://prakash-swe-portfolio.vercel.app) &nbsp;·&nbsp; [Résumé](https://prakash-swe-portfolio.vercel.app/resume.pdf) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/soulglory/) &nbsp;·&nbsp; [Writing](https://hashnode.com/@progmastermind) &nbsp;·&nbsp; [Email](mailto:prakashcollymore@gmail.com)
+[Portfolio](https://prakash-swe-portfolio.vercel.app) &nbsp;·&nbsp; [Résumé](https://prakash-swe-portfolio.vercel.app/resume.pdf) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/soulglory/) &nbsp;·&nbsp; [Writing](https://hashnode.com/@varahasuryaprakash) &nbsp;·&nbsp; [Email](mailto:prakashcollymore@gmail.com)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/figures-dark.svg">
