@@ -11,17 +11,17 @@
 
 </div>
 
-## 💫 About Me
+## About
 
 > Software engineer building backends and systems software. I work across Rust, Go and Elixir, and spend my spare time building the things I want to understand properly: consensus protocols, kernels and garbage collectors.
 
-- 🔭 **Now:** Software Engineer (SDE-1) at **Bytebeam**, building a telematics product backend from scratch in Rust and PostgreSQL
-- ⚡ **Before:** GPU Performance Engineering Intern at a stealth AI startup, where Eagle3 speculative decoding lifted `gpt-oss-120b` from **196 → 255 tok/s** (~30%) on a single AMD MI300X
-- 🧪 **Before that:** GPU Software Development Intern at **Intel**: **4×** driver-validation throughput and **10×** faster tool calls via IPC
-- 🎓 Integrated M.Tech in Software Engineering, **VIT** (GPA 9.47 / 10)
-- 📍 Bengaluru, India
+- **Currently:** Software Engineer (SDE-1) at **Bytebeam**, building a telematics product backend from scratch in Rust and PostgreSQL
+- **Previously:** GPU Performance Engineering Intern at a stealth AI startup, where Eagle3 speculative decoding lifted `gpt-oss-120b` from **196 → 255 tok/s** (~30%) on a single AMD MI300X
+- **Earlier:** GPU Software Development Intern at **Intel**: **4×** driver-validation throughput and **10×** faster tool calls via IPC
+- **Education:** Integrated M.Tech in Software Engineering, **VIT** (GPA 9.47 / 10)
+- **Location:** Bengaluru, India
 
-## 🛠️ Tech Arsenal
+## Tech Stack
 
 <table>
   <tr>
@@ -55,7 +55,7 @@
   </tr>
 </table>
 
-## 🌟 Project Highlights
+## Selected Projects
 
 <table>
   <tr>
@@ -111,7 +111,7 @@
   </tr>
 </table>
 
-## 🧭 Expertise Areas
+## Expertise
 
 ```go
 type Engineer struct {
@@ -133,7 +133,7 @@ var prakash = Engineer{
 }
 ```
 
-## 📈 GitHub Statistics
+## GitHub Activity
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ProgMastermind&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats" />
@@ -142,7 +142,7 @@ var prakash = Engineer{
   <img src="https://streak-stats.demolab.com/?user=ProgMastermind&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=30363d" alt="GitHub Streak" />
 </div>
 
-## 🤝 Let's Connect
+## Connect
 
 <div align="center">
   <a href="https://prakash-swe-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -154,7 +154,7 @@ var prakash = Engineer{
 
 <div align="center">
 
-### 🎯 Current Focus
+### Current Focus
 
 > Building reliable telemetry backends in Rust, and going deeper on LLM inference performance.
 
